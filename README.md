@@ -54,8 +54,8 @@ A feature-rich Discord music bot built with Discord.js, Riffy, and Lavalink. Thi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/friday2su/music-bot.git
-cd music-bot
+git clone https://github.com/dushyantrajotia/VibeTune-DiscordMusicBot.git
+cd VibeTune-DiscordMusicBot
 ```
 
 2. Install dependencies:
@@ -126,8 +126,8 @@ npm start
 ## Support
 
 If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/friday2su/music-bot/issues) page
-2. Join our [Discord Server](https://discord.gg/EWr3GgP6fe)
+1. Check the [Issues](https://github.com/dushyantrajotia/VibeTune-DiscordMusicBot/issues) page
+2. Join our [Discord Server](https://discord.gg/FMhDySWR4M)
 3. Create a new issue if needed
 
 ## Contributing
